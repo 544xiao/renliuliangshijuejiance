@@ -102,6 +102,10 @@ python main.py --video data/test1.mp4 --detector hog    # 传统ML
 python main.py --video data/test1.mp4 --detector yolo   # 深度学习（可选）
 ```
 
+### 结果样例
+
+仓库内置 `results_sample/`（三个检测器的 summary、每分钟流量CSV与曲线图，以及HOG的逐帧预测样例），
+供不运行代码时直接核查实验结果；完整的标注视频体积过大（>400MB），按课程要求存放于云盘并在报告中附链接。
 ## 4. 目录结构
 
 ```
@@ -147,5 +151,6 @@ renliuliangshijuejiance/
 ## 8. 许可证
 
 本项目代码采用 [MIT License](LICENSE)。第三方组件遵循其各自许可证（见第5节）。
+
 
 

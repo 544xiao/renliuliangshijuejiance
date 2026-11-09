@@ -1,0 +1,14 @@
+{
+  "total_crossings": 177,
+  "per_minute": {
+    "1": 105,
+    "2": 72
+  },
+  "average_people_per_minute": 88.5,
+  "detector": "hog",
+  "video": "data\\test1.mp4",
+  "fps": 30.0,
+  "frames": 3308,
+  "elapsed_s": 1057.2,
+  "output_csv": "C:\\Users\\20495\\Desktop\\机器学习大报告\\renliuliangshijuejiance\\results\\test1_hog\\flow_log.csv"
+}
