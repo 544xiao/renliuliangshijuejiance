@@ -1,0 +1,21 @@
+﻿# 运行产物（可随时重新生成）
+results/
+data/*.mp4
+data/*.avi
+data/ground_truth.json
+weights/*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 已停用的旧脚本
+*.removed
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+

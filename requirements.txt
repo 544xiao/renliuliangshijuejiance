@@ -1,0 +1,5 @@
+﻿numpy>=1.24,<3
+opencv-python>=4.8
+matplotlib>=3.7
+# 可选：启用YOLOv8深度学习检测器（约需下载2GB的PyTorch与yolov8n.pt权重）
+# ultralytics>=8.0
